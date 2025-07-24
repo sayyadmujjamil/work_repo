@@ -1,6 +1,4 @@
 # work_repo
 Nothing
 <br>
-Author - Sayyad Mujjamil Rafique 
-updated again again hi hi hi 
-sample  
+Author - it just example
